@@ -1,0 +1,2 @@
+# Si cambiamos el parametro (x,y) el programa no funcionaria porque deberiamos cambiarlo en todo el "sistema" por asi decirlo
+# habria que modificar todos los (x,y) por los valores (a,b) como plantea el enunciado.
